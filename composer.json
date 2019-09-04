@@ -29,10 +29,10 @@
         }
     ],
     "require": {
-        "illuminate/database": "5.*"
+        "illuminate/database": "6.*"
     },
     "require-dev": {
-        "orchestra/testbench": "3.*",
+        "orchestra/testbench": "4.*",
         "friendsofphp/php-cs-fixer": "2.*"
     },
     "autoload": {
